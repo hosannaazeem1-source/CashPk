@@ -1,0 +1,5 @@
+{
+  "name": "CashPk",
+  "description": "An application for users to earn rewards by watching simulated ads and withdraw their earnings. Includes an admin panel for managing withdrawal requests.",
+  "requestFramePermissions": []
+}
